@@ -1,0 +1,55 @@
+<user
+	id="7267f43c71fcf53f4580fd3cd808bd48"
+age_group="26"
+gender="0"
+extrovert="4"
+neurotic="2.25"
+agreeable="2.2"
+conscientious="3.6"
+open="2.8"
+/>
+
+<user
+	id="e1cdac10d136e76e064e4860007d786d"
+age_group="24"
+gender="0"
+extrovert="4.2"
+neurotic="3.35"
+agreeable="2.45"
+conscientious="3.9"
+open="2.6"
+/>
+
+<user
+	id="ea4b8b534a35f59713f61f29b8725d09"
+age_group="27"
+gender="1"
+extrovert="2.75"
+neurotic="4.8"
+agreeable="3.15"
+conscientious="3.85"
+open="4.15"
+/>
+
+<user
+	id="c7bb07b4b9ccd28cd0bc285194da5c72"
+age_group="29"
+gender="1"
+extrovert="3.4"
+neurotic="3.2"
+agreeable="2.1"
+conscientious="3.7"
+open="2.35"
+/>
+
+<user
+	id="e8b8f7f4f40ea6babfa9a2a967ff1866"
+age_group="25"
+gender="0"
+extrovert="4.4"
+neurotic="3.25"
+agreeable="4"
+conscientious="2.89"
+open="2.35"
+/>
+
